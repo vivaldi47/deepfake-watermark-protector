@@ -17,8 +17,7 @@ AI 시대 딥페이크/불법합성물 피해에 대응하기 위한 워터마�
 - **평가:** PSNR · SSIM · ArcFace Identity · CLIP
 
 ## 📂 폴더 구조
-'''
-deepfake-watermark-protector/
+```deepfake-watermark-protector/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
@@ -58,8 +57,8 @@ deepfake-watermark-protector/
 │   ├── experiment_log.md
 │   └── insurance_design.md
 │
-└── data/   (.gitignore로 제외)
-'''
+└── data/   (.gitignore로 제외)```
+
 ## 🛠 기술 스택
 
 - **워터마킹:** PhotoGuard, Anti-DreamBooth, CAAT
