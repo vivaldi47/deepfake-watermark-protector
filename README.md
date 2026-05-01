@@ -57,7 +57,8 @@ AI 시대 딥페이크/불법합성물 피해에 대응하기 위한 워터마�
 │   ├── experiment_log.md
 │   └── insurance_design.md
 │
-└── data/   (.gitignore로 제외)```
+└── data/   (.gitignore로 제외)
+```
 
 ## 🛠 기술 스택
 
