@@ -49,13 +49,6 @@ AI 시대 딥페이크/불법합성물 피해에 대응하기 위한 워터마�
 │   ├── caat_psnr_results.csv
 │   └── final_summary.csv
 │
-├── docs/
-│   ├── meeting_notes/
-│   │   ├── 1차_2026-04-01.md
-│   │   ├── 2차_2026-04-27.md
-│   │   └── 3차_2026-04-30.md
-│   ├── experiment_log.md
-│   └── insurance_design.md
 │
 └── data/   (.gitignore로 제외)
 ```
